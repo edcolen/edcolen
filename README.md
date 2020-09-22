@@ -7,7 +7,7 @@
 
 
 ### Now playing on my Spotify 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="edcolen Spotify Playing" width="350" />](https://open.spotify.com/user/12143212931)
+[<img src="https://now-playing-edcolen.vercel.app/api/spotify-playing" alt="edcolen Spotify Playing" width="350" />](https://open.spotify.com/user/12143212931)
 
 ### Let's connect:
 
