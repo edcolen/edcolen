@@ -44,9 +44,6 @@
 <br />
 <hr>
 
-
-### My Github Stats
-
 <img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api?username=edcolen&count_private=true&show_icons=true&hide_border=true" />
 <img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api/top-langs/?username=edcolen&layout=compact&langs_count=8" />
 
