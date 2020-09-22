@@ -9,7 +9,7 @@
 ### Now playing on my Spotify 🎧
 [<img src="https://now-playing-edcolen.vercel.app/api/spotify" alt="edcolen Spotify Playing" width="350" />](https://open.spotify.com/user/12143212931)
 
-### Let's connect:
+### You can also find me here:
 
 [<img align="left" alt="edcolen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/medium.svg" />][medium]
