@@ -42,7 +42,7 @@
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
 
   <img align="left" alt="edcolens's Github Stats" src="https://github-readme-stats.edcolen.vercel.app/api?username=edcolen&count_private=true&show_icons=true&hide_border=true" />
   <img align="left" alt="edcolens's Top Languages" src="https://github-readme-stats.edcolen.vercel.app/api/top-langs/?username=edcolen&layout=compact" />
