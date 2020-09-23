@@ -13,10 +13,11 @@
 
 ### You can also find me here:
 
-[<img align="left" alt="edcolen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/medium.svg" />][medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ed Colen | website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/globe.svg" />][website]
+[<img align="left" alt="Ed Colen | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][email]
+[<img align="left" alt="Ed Colen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/medium.svg" />][medium]
+[<img align="left" alt="Ed Colen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ed Colen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/instagram.svg" />][instagram]
 
 <br />
 <hr>
@@ -48,6 +49,7 @@
 <img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api/top-langs/?username=edcolen&layout=compact&langs_count=8" />
 
 [website]: https://edcolen.com
+[email]: mailto:ed.colen@gmail.com
 [medium]: https://medium.com/@edcolen
 [instagram]: https://www.instagram.com/edcolen/
 [linkedin]: https://www.linkedin.com/in/edcolen/
