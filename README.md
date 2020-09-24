@@ -1,8 +1,8 @@
-### Hi there, I'm Ed! 👋
+### Hi there, I'm Ed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 - 🎭 I used to be a Psychologist
 - 📸 I’m a photographer in my free time
-- 💪🏻 Just graduated from Le Wagon's Bootcamp
+- 💪🏻 Just graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - 🤓 I’m currently learning more JavaScript(React, Node.js)
 
 <br />
