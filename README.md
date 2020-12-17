@@ -2,8 +2,8 @@
 
 - 🎭 I used to be a Psychologist
 - 📸 I’m a photographer in my free time
-- 💪🏻 Just graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
-- 🤓 I’m currently learning more JavaScript(React, Node.js)
+- 💪🏻 I graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
+- 🤓 I’m currently deepening my knowledge of JavaScript(React, Node.js)
 
 <br />
 <hr>
