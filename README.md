@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/6966b1a518.js" crossorigin="anonymous"></script>
+
 ### Hi there, I'm Ed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" />
 
 - 🎭 I used to be a Psychologist
