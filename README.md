@@ -9,9 +9,6 @@
 <br />
 <hr>
 
-### Now playing on my Spotify 🎧
-[<img src="https://now-playing-edcolen.vercel.app/api/spotify" alt="edcolen Spotify Playing" width="350" />](https://open.spotify.com/user/12143212931)
-
 ### You can also find me here:
 
 
