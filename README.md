@@ -46,8 +46,8 @@
 <br />
 <hr>
 
-<img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api?username=edcolen&count_private=true&show_icons=true&hide_border=true" />
-<img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api/top-langs/?username=edcolen&layout=compact&langs_count=8" />
+[//]: <> (<img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api?username=edcolen&count_private=true&show_icons=true&hide_border=true" />)
+[//]: <> (<img align="left" alt="" src="https://github-readme-stats.edcolen.vercel.app/api/top-langs/?username=edcolen&layout=compact&langs_count=8" />)
 
 [website]: https://edcolen.com
 [email]: mailto:ed.colen@gmail.com
