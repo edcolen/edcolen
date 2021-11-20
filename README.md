@@ -4,7 +4,7 @@
 - 📸 I’m a photographer in my free time
 - 💪🏻 Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 - 💎 Ruby (on Rails) is my everyday tool at the moment
-- 🤓 I’m currently deepening my knowledge of the JavaScript Universe(React, Node.js, TypeScript)
+- 🤓 I’m currently on a journey into Python universe.
 
 <br />
 <hr>
